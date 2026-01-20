@@ -49,7 +49,7 @@ navbar.innerHTML = `
                 </a>
 
                 <a href="oven-parts.html" class="group rounded-2xl p-4 bg-white/8 hover:bg-[#ffb400]/10 transition">
-                  <i class="fa-solid fa-oven text-[#ffb400] text-xl"></i>
+                  <i class="fa-solid fa-teeth-open text-[#ffb400] text-xl"></i>
                   <h4 class="mt-3 font-semibold group-hover:text-[#ffb400]">Oven</h4>
                 </a>
 
