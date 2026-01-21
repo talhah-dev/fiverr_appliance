@@ -2,3 +2,96 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.yourwebsite.com/sitemap.xml
+
+
+
+
+
+
+
+
+
+Here is **exactly** what the client is asking for, in **clear and simple words** 👇
+
+---
+
+## ✅ Client Feedback – Explained Clearly
+
+The client is **happy with the site overall**, but wants **three specific changes**.
+
+---
+
+### 🔹 1️⃣ Header Background Color Change
+
+**Current:**
+
+* Header background is dark / transparent (or not white)
+
+**Client Wants:**
+
+* **Header background → WHITE**
+* **Menu link color → `#4c1569` (purple)**
+
+👉 This applies to:
+
+* Desktop menu
+* Mobile menu (recommended for consistency)
+
+---
+
+### 🔹 2️⃣ Homepage Hero Section Update
+
+**Current homepage hero includes:**
+
+* Parts Available
+* Years Experience
+* Customer Help
+
+**Client Wants to REMOVE those**
+
+---
+
+### 🔹 3️⃣ Replace Hero Stats With Brand Logos / Names
+
+**Client Wants:**
+
+* Show **appliance brands** instead of stats
+* Brands should be the **same ones used in Compatibility sections**
+  (Whirlpool, LG, Samsung, GE, Bosch, etc.)
+
+📍 Location:
+
+* **Homepage hero section**
+* Where stats currently exist
+
+👉 Example:
+Instead of:
+
+* 10,000+ Parts
+* 15+ Years Experience
+* 24/7 Support
+
+Show:
+
+* Whirlpool
+* LG
+* Samsung
+* GE
+* Bosch
+  (or logos if available)
+
+---
+
+## 🧠 Summary in One Line
+
+> “Make the header white with purple links, and replace the homepage hero stats with appliance brand names/logos that match the compatibility sections.”
+
+---
+
+If you want, next I can:
+
+* Give **exact Tailwind classes** for header changes
+* Rewrite the **homepage hero brand block**
+* Suggest **best brand layout** (text vs logos)
+
+Just say **next**.
